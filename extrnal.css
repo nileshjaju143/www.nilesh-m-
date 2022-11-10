@@ -1,0 +1,15 @@
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+  font-size: 30px;
+  font-variant: small-caps;
+  font-style: oblique;
+  text-align: center;
+  text-shadow: 2px 1px 3px rgb(225, 110, 65);
+}
+p{
+  text-align: justify;
+ text-transform: lowercase;
+ word-spacing: 2px;
+
+}
